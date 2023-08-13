@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/luizmiguelproenca/d6a254aeadd1e8287615bcb9b0cd10e9/raw/8cd69bc3564215f2ce317faa44f7bdf758c8b75a/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luiz Miguel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadulisboa&color=blue" alt="Profile views" /> </p>
 
