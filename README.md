@@ -7,7 +7,7 @@
 
 - 💪 Seeking excellence in my life.
 
-- 📚 Learning about **Python, R, SQL, Statistics, Business Intelligence, Data Science & Data Engineer.**
+- 📚 Learning about **Python, R, SQL, Statistics, Business Intelligence, Data Science & Data Engineering.**
 
 <br>
 
