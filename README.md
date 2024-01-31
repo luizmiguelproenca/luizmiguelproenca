@@ -3,8 +3,6 @@
 
 - 🎲 Junior Data Analyst.
 
-// - 🚀 I’m currently working at [Going2 Mobile](https://going2.com.br/).
-
 - 💪 Seeking excellence in my life.
 
 - 📚 Learning about **Python, R, SQL, Statistics, Business Intelligence, Data Science & Data Engineering.**
