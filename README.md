@@ -3,7 +3,7 @@
 
 - 🎲 Junior Data Analyst.
 
-- 🚀 I’m currently working at [Going2 Mobile](https://going2.com.br/).
+// - 🚀 I’m currently working at [Going2 Mobile](https://going2.com.br/).
 
 - 💪 Seeking excellence in my life.
 
