@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Luiz Miguel</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadulisboa&color=blue" alt="Profile views" /> </p>
 
-- 🎲 Junior Data Analyst.
+- 🎲 Data Analyst.
 
 - 💪 Seeking excellence in my life.
 
